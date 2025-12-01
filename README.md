@@ -7,7 +7,6 @@
 <!-- Stats Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Omar-Aguil&label=Profile+Views&color=2496ED&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Omar-Aguil?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/badge/From-Tunisia-2496ED" alt="Tunisia" />
 </p>
 
